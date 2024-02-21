@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Mpoelesiamon
-- 👀 I’m interested in ...  
-- 🌱 I’m currently learning ... Software Engineering at Moringa School.
-- 💞️ I’m looking to collaborate on ...  Bulding and developing websites and apps.
-- 📫 How to reach me ... mpoelessy839@gmail.com
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ... 
+👋 Hi, I'm @Mpoelesiamon.
+
+👀 I'm a passionate individual with a keen interest in technology and software development.
+
+🌱 Currently, I am sharpening my skills in Software Engineering through rigorous training at Moringa School.
+
+💼 I'm actively seeking opportunities to collaborate on projects involving the development and enhancement of websites and applications.
+
+📫 You can reach out to me via email at mpoelessy839@gmail.com.
+
+😄 Pronouns: He / Him
+
+⚡ Fun Fact: I like coding, you?
+
 
 <!---
 Mpoelesiamon/Mpoelesiamon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
