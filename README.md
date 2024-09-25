@@ -10,7 +10,7 @@
 
 😄 Pronouns: He / Him
 
-⚡ Fun Fact: I like coding, you?
+⚡ Fun Fact: I like developing wensites, you?
 
 
 <!---
