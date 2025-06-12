@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Finehas Mpoe (Lessy)</h1>
+<h1 align="center">Hi 👋, I'm Lessy</h1>
 <h3 align="center">A passionate and self-driven developer 👨🏽‍💻, designer 🎨, and problem-solver 🧠. I'm currently pursuing several courses involving tech💡, while building real-world 🌐 projects that combine clean code 💻 with beautiful, user-friendly design 🧑‍🎨. Over the past few years, I've worked on everything from WordPress 🌍 sites to Angular ⚙️ web apps, handled Node.js 🧩 backends, and styled pages with SCSS 🎨. I've also dived into Python 🐍, Flask 🧪, and recently started exploring Java ☕ and XAMPP/WordPress environments 🛠️. I enjoy bringing ideas to life through intuitive, modern UI/UX 💡🖌️ and responsive designs 📱💻. My journey blends front-end creativity 🎭 with back-end logic 🧮, and I’m always learning — whether it's about GitHub workflows 🔁, mobile responsiveness 📲, or setting up dev tools on macOS 🍎.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpoelesiamon&label=Profile%20views&color=0e75b6&style=flat" alt="mpoelesiamon" /> </p>
