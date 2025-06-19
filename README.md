@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://mpoelessy839.wixsite.com/my-portfolio](https://mpoelessy839.wixsite.com/my-portfolio)
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs! Debugging: Being the detective in a crime movie where you are also the murderer. 🔍😅**
+- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs! | Debugging: Being the detective in a crime movie where you are also the murderer. 🔍😅 | Spiders are the only web designers that are happy when they get a bug 🐞😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
