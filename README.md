@@ -1,7 +1,9 @@
 # Lessy
-**Finehas Lesiamon Mpoe · Developer & UI/UX Designer**
+**Finehas Lesiamon Mpoe · WordPress Specialist & Developer**
 
-I build web applications, design thoughtful interfaces, and connect software with AI and automation. My work spans business websites, commerce, galleries, and tools that make everyday work simpler.
+WordPress is my strongest specialty. I build websites and thoughtful interfaces, create workflow automations, and develop AI agents and custom agent skills.
+
+My work brings design, content, and software together—from gallery experiences and business websites to connected applications.
 
 [Portfolio](https://lessy-mpoe-portfolio.zestymars1.chatgpt.site) · [Email](mailto:mpoelessy839@gmail.com)
 
@@ -9,11 +11,13 @@ I build web applications, design thoughtful interfaces, and connect software wit
 
 ### Selected work
 
+- **[Bugatti Insights](https://bugattiinsights.com/)** — Automotive heritage, vehicle records, and collection discovery.
+- **[Prospergenics](https://prospergenics.com/)** — Company website and WordPress development.
+- **[Art Revisionist](https://artrevisionist.com/) · [PersArt](https://persart.nl/)** — Art research and gallery website projects.
+- **[Maximillar Portfolio](https://maximillar-portfolio.vercel.app/)** — A personal portfolio with visual storytelling.
+- **[Nashipae Cultural Oasis](https://nashipaeculturaloasis.com/)** — Cultural heritage and hospitality website.
 - **[ReNa Farm](https://renafarm.co.ke)** — A public website and connected farm management platform.
-- **[VloerBot](https://github.com/Mpoelesiamon/VloerBot)** — Conversational AI assistance for flooring customers.
-- **Vazi District** — A streetwear storefront with product, checkout, and order management.
-- **Perridon Gallery** — Collaborative work on a digital collection and gallery experience.
-- **[AI Explorer](https://github.com/Mpoelesiamon/AI-Explorer)** — A web interface for discovering AI tools.
+- **Jengo · Brand2Boost · [VloerBot](https://github.com/Mpoelesiamon/VloerBot)** — Collaborative AI platforms, agents, and automation work.
 
 [Explore the full project collection →](https://lessy-mpoe-portfolio.zestymars1.chatgpt.site/#index)
 
