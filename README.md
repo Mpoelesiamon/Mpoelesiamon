@@ -1,5 +1,7 @@
 # Lessy
-**Finehas Lesiamon Mpoe · WordPress Specialist & Developer**
+**Finehas Lesiamon Mpoe · Co-Founder, Trainer & Software Developer at Prospergenics**
+
+I’m a co-founder, trainer, and software developer at [Prospergenics](https://prospergenics.com/). I work alongside Martien de Jong, our fellow co-founder and mentor.
 
 WordPress is my strongest specialty. I build websites and thoughtful interfaces, create workflow automations, and develop AI agents and custom agent skills.
 
@@ -23,4 +25,4 @@ My work brings design, content, and software together—from gallery experiences
 
 ### Activity
 
-[![Lessy's GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Mpoelesiamon&bg_color=f5f4ef&color=294c3b&line=688269&point=294c3b&area=true&area_color=dce5d7&hide_border=true&hide_title=true)](https://github.com/Mpoelesiamon?tab=overview)
+[![Lessy's GitHub contribution activity](https://ghchart.rshah.org/294c3b/Mpoelesiamon)](https://github.com/Mpoelesiamon?tab=overview)
