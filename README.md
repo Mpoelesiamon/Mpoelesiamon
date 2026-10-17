@@ -1,4 +1,5 @@
-# Lessy
+# Finehas
+
 **Finehas Lesiamon Mpoe · Co-Founder, Trainer & Software Developer at Prospergenics**
 
 I’m a co-founder, trainer, and software developer at [Prospergenics](https://prospergenics.com/). I work alongside Martien de Jong, our fellow co-founder and mentor.
