@@ -26,4 +26,4 @@ My work brings design, content, and software together—from gallery experiences
 
 ### Activity
 
-[![Lessy's GitHub contribution activity](https://ghchart.rshah.org/294c3b/Mpoelesiamon)](https://github.com/Mpoelesiamon?tab=overview)
+[![Lessy's GitHub contribution activity](https://ghchart.xqsit94.in/dark:8fbf9b/Mpoelesiamon)](https://github.com/Mpoelesiamon?tab=overview)
