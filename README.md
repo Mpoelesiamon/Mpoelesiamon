@@ -23,7 +23,3 @@ My work brings design, content, and software together—from gallery experiences
 - **Jengo · Brand2Boost · [VloerBot](https://github.com/Mpoelesiamon/VloerBot)** — Collaborative AI platforms, agents, and automation work.
 
 [Explore the full project collection →](https://lessy-mpoe-portfolio.vercel.app/#index)
-
-### Activity
-
-[![Lessy's GitHub contribution activity](https://ghchart.xqsit94.in/dark:8fbf9b/Mpoelesiamon)](https://github.com/Mpoelesiamon?tab=overview)
