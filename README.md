@@ -8,7 +8,7 @@ WordPress is my strongest specialty. I build websites and thoughtful interfaces,
 
 My work brings design, content, and software together—from gallery experiences and business websites to connected applications.
 
-[Portfolio](https://lessy-mpoe-portfolio.zestymars1.chatgpt.site) · [Email](mailto:mpoelessy839@gmail.com)
+[Portfolio](https://lessy-mpoe-portfolio.vercel.app) · [Email](mailto:mpoelessy839@gmail.com)
 
 ---
 
@@ -22,7 +22,7 @@ My work brings design, content, and software together—from gallery experiences
 - **[ReNa Farm](https://renafarm.co.ke)** — A public website and connected farm management platform.
 - **Jengo · Brand2Boost · [VloerBot](https://github.com/Mpoelesiamon/VloerBot)** — Collaborative AI platforms, agents, and automation work.
 
-[Explore the full project collection →](https://lessy-mpoe-portfolio.zestymars1.chatgpt.site/#index)
+[Explore the full project collection →](https://lessy-mpoe-portfolio.vercel.app/#index)
 
 ### Activity
 
