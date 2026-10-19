@@ -17,7 +17,7 @@ My work brings design, content, and software together—from gallery experiences
 - **[Bugatti Insights](https://bugattiinsights.com/)** — Automotive heritage, vehicle records, and collection discovery.
 - **[Prospergenics](https://prospergenics.com/)** — Company website and WordPress development.
 - **[Art Revisionist](https://artrevisionist.com/) · [PersArt](https://persart.nl/)** — Art research and gallery website projects.
-- **[Maximillar Portfolio](https://maximillar-portfolio.vercel.app/)** — A personal portfolio with visual storytelling.
+- **[Maximillar Portfolio](https://maximillar.lesiamon.com/)** — A personal portfolio with visual storytelling.
 - **[Nashipae Cultural Oasis](https://nashipaeculturaloasis.com/)** — Cultural heritage and hospitality website.
 - **[ReNa Farm](https://renafarm.co.ke)** — A public website and connected farm management platform.
 - **Jengo · Brand2Boost · [VloerBot](https://github.com/Mpoelesiamon/VloerBot)** — Collaborative AI platforms, agents, and automation work.
